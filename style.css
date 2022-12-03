@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    padding:top;
+    position:absolute; left:1150px; top:20px; background-color:none;
+    text-align:center;
+
+    }
+    img{
+        height:140px;
+            width:140px;
+    }
+    h1{
+    color: #32a852;
+    }
+    .mode {
+        float:right;
+    }
+    .change {
+        cursor: pointer;
+        border: 1px solid #555;
+        border-radius: 40%;
+        width: 20px;
+        text-align: center;
+        padding: 5px;
+        margin-left: 8px;
+    }
+    .dark{
+        background-color: #222;
+        color: #e6e6e6;
+    }
